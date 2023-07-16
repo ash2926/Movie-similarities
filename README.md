@@ -59,6 +59,6 @@ Contributions to this project are welcome. If you have any suggestions, bug repo
 
 ## Contact
 
-For any questions or inquiries, please contact [your-email@example.com](mailto:your-ayeshaf2529@gmail.com).
+For any questions or inquiries, please contact (mailto:your-ayeshaf2529@gmail.com).
 
 **Happy exploring movies!**
